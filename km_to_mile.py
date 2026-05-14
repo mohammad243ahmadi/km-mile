@@ -3,7 +3,7 @@ import customtkinter as ctk
 
 # root = tk.Tk()
 root_ctk = ctk.CTk()
-root_ctk.title("km - mile")
+root_ctk.title("km - mile app")
 root_ctk.geometry("300x500")
 root_ctk.iconbitmap("icon_km.ico")
 root_ctk.config(pady=80)
